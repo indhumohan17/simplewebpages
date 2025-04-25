@@ -4603,6 +4603,9 @@ input[type="button"].btn-block {
 .navbar-brand:hover, .navbar-brand:focus {
   text-decoration: none;
 }
+.a.navbar-brand {
+  color: #ff7a57;
+}
 
 .navbar-nav {
   display: -webkit-box;
